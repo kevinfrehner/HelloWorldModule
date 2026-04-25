@@ -28,7 +28,7 @@ To recreate the development environment, you need the following software and/or 
 I found these websites useful in developing this software:
 
 * [Python](https://www.python.org/downloads/release/python-3130/)
-* [VSCode] (https://code.visualstudio.com/download)
+* [VSCode](https://code.visualstudio.com/download)
 
 ## Future Work
 
